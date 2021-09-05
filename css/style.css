@@ -1,0 +1,36 @@
+body {
+  background-color: #293241;
+  text-align: center;
+  color:#ee6c4d;
+}
+h1 {
+  color: #ee6c4d;
+}
+.logo{
+text-align: left;
+}
+p {
+  color: #e0fbfc;
+  background-color:#3d5a80;
+  padding: 15px;
+  border: 10px solid #98c1d9;
+  margin: 50px;
+}
+a:link{
+    color: #ee6c4d;
+    text-decoration: none;
+}
+a:visited{
+    color:#98c1d9;
+    text-decoration: none;/* Quita el subrayado del enlace*/
+}
+/*Cuando nos ponemos encima del enlace*/
+a:hover{
+    color:seashell;
+    text-decoration: underline;
+}
+a:active{
+    color: sienna;
+    text-decoration: underline;
+}
+
