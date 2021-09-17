@@ -34,3 +34,17 @@ a:active{
     text-decoration: underline;
 }
 
+
+main{
+  width: 100%;
+  /*border: 5px solid black;*/
+
+}
+
+img{
+  width: 50%;
+}
+
+.logo{
+  width: 10%;
+}
